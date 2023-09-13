@@ -1,10 +1,4 @@
 
-<style>
-  .my_img
-  {
-    border-radius="20%"
-  }
-</style>
 
 <h1 align="center">Hi 👋, I'm Aryan Malkani</h1>
 <h3 align="center">🌟 Passionate about building innovative solutions, solving problems, and exploring the world of technology.</h3>
