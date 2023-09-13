@@ -1,8 +1,15 @@
 
+<style>
+  .my_img
+  {
+    border-radius="20%"
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Aryan Malkani</h1>
 <h3 align="center">🌟 Passionate about building innovative solutions, solving problems, and exploring the world of technology.</h3>
 
-<img style="border-radius: 50%;" align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kzve39m5yrbvvb6pgvecl0dauvl4r47h2er4blei&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img class="my_img" align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kzve39m5yrbvvb6pgvecl0dauvl4r47h2er4blei&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmalkani&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmalkani" /> </p>
 
 - 🎓 Computer Science Student at Symbiosis International University [https://www.sitpune.edu.in/](https://www.sitpune.edu.in/)
