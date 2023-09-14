@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **aryan.malkani2004@gmail.com**
 
+- 👨‍💻 My website: [https://aryanmalkani.github.io/](https://aryanmalkani.github.io/)
+
 <p align="left">
 </p>
 
